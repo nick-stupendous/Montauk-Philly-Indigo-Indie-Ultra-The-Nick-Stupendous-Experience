@@ -28,7 +28,7 @@ It's a fantasy adventure with some sci-fi twists, all set during that eerie fall
 
 There is no way to rate a game, but here is my opinion on it, I tried.
 
-##| **Teen**                          |
+## | **Teen**                          |
 
   | --------------------------------- |
   |               **T**               |
