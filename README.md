@@ -30,6 +30,7 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 
 <h2 style="font-size: 2em; font-weight: bold;">Teen</h2>
 <sub style="font-size: 2em; font-weight: bold; vertical-align: -0.25em;">[T]</sub>
+
 | Rating                            |
 | --------------------------------- |
 |  **Fictional Blood**              |
