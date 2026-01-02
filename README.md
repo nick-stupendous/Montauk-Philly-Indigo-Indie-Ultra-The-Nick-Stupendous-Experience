@@ -48,7 +48,9 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 | **Crude Humor**                   |
 | **Suggestive Themes**             |
 | **Interactive Elements**          |
-| Nick Stupendous's Game Rating     |
+
+<h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 60px;">
+  Nick Stupendous's Game Rating     
 
 ## How to Get Started
 
