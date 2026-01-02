@@ -29,17 +29,20 @@ It's a fantasy adventure with some sci-fi twists, all set during that eerie fall
 There is no way to rate a game, but here is my opinion on it, I tried.
 
 ##  **Teen**                         
-##               **T**              
-  |  **Fictional Blood**              |
-  |  **Fantasy Violence**             |
-  |   **Cartoon Violence**            |
-  | **Infrequent Use of**             |
-  | **Strong Language**               |
-  | **Disturbing/Scary Images**       |
-  | **Crude Humor**                   |
-  | **Suggestive Themes**             |
-  | **Interactive Elements**          |
-  | Nick Stupendous's Game Rating     |
+##               **T**       
+
+| Rating                            |
+| --------------------------------- |
+|  **Fictional Blood**              |
+|  **Fantasy Violence**             |
+|   **Cartoon Violence**            |
+| **Infrequent Use of**             |
+| **Strong Language**               |
+| **Disturbing/Scary Images**       |
+| **Crude Humor**                   |
+| **Suggestive Themes**             |
+| **Interactive Elements**          |
+| Nick Stupendous's Game Rating     |
 
 ## How to Get Started
 
