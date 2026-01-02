@@ -1,6 +1,6 @@
 # Montauk Philly Indigo Indie Ultra - The Nick Stupendous Experience
 
-Hey everyone! 👋 This is a passion project by fans, for fans. I am building an open-source remake of that TV show you remember, focusing on those first two spooky events from Fall 1983-84. Think of it as a love letter to the original, but rebuilt for modern PCs.
+Hey everyone! 👋 This is a passion project by a fan, for fans. I am building an open-source remake of that TV show you remember, focusing on those first two spooky events from Fall 1983-84. Think of it as a love letter to the original, but rebuilt for modern PCs.
 
 This started from the Android version floating around online, which then the company decided to buy the version, and delist it. However, now I am bringing it to PC with help from anyone who wants to pitch in. If life gets in the way and I can't continue, the project is set up so you can pick it up and keep it going. The story shouldn't end just because someone got busy.
 
