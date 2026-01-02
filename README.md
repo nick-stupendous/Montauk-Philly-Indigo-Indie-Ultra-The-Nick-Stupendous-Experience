@@ -28,14 +28,11 @@ It's a fantasy adventure with some sci-fi twists, all set during that eerie fall
 
 There is no way to rate a game, but here is my opinion on it, I tried.
 
-## 
-
 <h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 60px;">
   Teen
 
   <sub style="position: absolute; bottom: 10px; left: 0; font-size: 36px; font-weight: bold;">T</sub>
 </h2>
-
 
 | Rating                            |
 | --------------------------------- |
