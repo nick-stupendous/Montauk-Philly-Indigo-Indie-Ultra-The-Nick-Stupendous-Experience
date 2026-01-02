@@ -5,7 +5,7 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 
 =====================================
 
-|  Nick Stupendous's Game Rating |
+|  Nick Stupendous's Game Rating    |
 
 
 - Teen:
