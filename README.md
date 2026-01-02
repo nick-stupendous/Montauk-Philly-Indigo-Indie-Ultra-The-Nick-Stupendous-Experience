@@ -3,9 +3,8 @@ This will be a PC Indie (Native) Remake from a famous TV Show, that eventually f
 
 There is no way to rate a game, but here is my opinion on it, I tried.
 
-
-| --------------------------------- |
 | **Teen**                          |
+| --------------------------------- |
 |   **T**                           |
 |  **Fictional Blood**              |
 |  **Fantasy Violence**             |
